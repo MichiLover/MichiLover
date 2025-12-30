@@ -28,6 +28,3 @@ Puedes ver mis trabajos más importantes aquí mismo o en mi **[Portfolio Web](T
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
 
 ---
-
-### 📊 Estadísticas de GitHub
-![Estadísticas de mi GitHub](https://github-readme-stats.vercel.app/api?username=MichiLover&show_icons=true&theme=tokyonight)
