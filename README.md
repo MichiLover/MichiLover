@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola! Soy Marian 👋
 
-<!--
-**MichiLover/MichiLover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Desarrolladora Web en formación | Apasionada por el Frontend
 
-Here are some ideas to get you started:
+¡Bienvenida a mi perfil de GitHub! Actualmente estoy enfocada en aprender y construir aplicaciones web modernas y reactivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mis Tecnologías
+Aquí están las herramientas con las que trabajo y estoy aprendiendo:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+---
+
+### 🚀 Mis Proyectos Destacados
+Puedes ver mis trabajos más importantes aquí mismo o en mi **[Portfolio Web](TU_LINK_DE_GITHUB_PAGES_AQUI)**.
+
+* **[Chilli Cookies](LINK_A_TU_REPO_DE_COOKIES):** Una aplicación de e-commerce de galletas usando Vue.js.
+* **[Mi Portfolio](LINK_A_TU_REPO_DE_PORTFOLIO):** El código de mi página personal.
+
+---
+
+### 📫 Conecta conmigo:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
+
+---
+
+### 📊 Estadísticas de GitHub
+![Estadísticas de mi GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight)
