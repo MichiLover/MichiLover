@@ -15,8 +15,8 @@ Aquí están las herramientas con las que trabajo y estoy aprendiendo:
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
----
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+---
 
 ### 🚀 Mis Proyectos Destacados
 Puedes ver mis trabajos más importantes aquí mismo o en mi **[Portfolio Web](TU_LINK_DE_GITHUB_PAGES_AQUI)**.
