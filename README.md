@@ -7,9 +7,6 @@ Actualmente estoy enfocada en aprender y construir aplicaciones web modernas y r
 Estoy interesada en el diseño UX/UI y de a poco voy aprendiendo cada vez más sobre back-end.
 Apasionada de la IA, siempre usandola para mejorar y conocer mas sobre este inmenso mundo de la programación web.
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/active-working.gif" width="300">
-</p>
 ### 🛠️ Mis Tecnologías
 Aquí están las herramientas con las que trabajo y estoy aprendiendo:
 
