@@ -1,4 +1,4 @@
-# ¡Hola! Soy Marian 👋 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+# ¡Hola! Soy Marian  <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 
 ### 👩‍💻 Programadora Web en formación | Apasionada por crear siempre algo nuevo e interesante
 
@@ -27,6 +27,8 @@ Apasionada de la IA, siempre usandola para mejorar y conocer mas sobre este inme
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+---
 ### 🛠️ Mis Tecnologías
 Aquí están las herramientas con las que trabajo y estoy aprendiendo:
 
