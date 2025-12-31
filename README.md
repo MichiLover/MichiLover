@@ -8,7 +8,7 @@ Estoy interesada en el diseño UX/UI y de a poco voy aprendiendo cada vez más s
 Apasionada de la IA, siempre usandola para mejorar y conocer mas sobre este inmenso mundo de la programación web.
 ---
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BwamR4ZmtueXJ6eXN6eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/A9of9Gv7fNntC/giphy.gif" width="300">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/active-working.gif" width="300">
 </p>
 ### 🛠️ Mis Tecnologías
 Aquí están las herramientas con las que trabajo y estoy aprendiendo:
