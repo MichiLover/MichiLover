@@ -7,7 +7,9 @@ Actualmente estoy enfocada en aprender y construir aplicaciones web modernas y r
 Estoy interesada en el diseño UX/UI y de a poco voy aprendiendo cada vez más sobre back-end.
 Apasionada de la IA, siempre usandola para mejorar y conocer mas sobre este inmenso mundo de la programación web.
 ---
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR6eXN6eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/unQ3IJU2RG7O8/giphy.gif" width="300">
+</p>
 ### 🛠️ Mis Tecnologías
 Aquí están las herramientas con las que trabajo y estoy aprendiendo:
 
