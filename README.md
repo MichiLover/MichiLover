@@ -6,7 +6,6 @@
 Actualmente estoy enfocada en aprender y construir aplicaciones web modernas y reactivas.
 Estoy interesada en el diseño UX/UI y de a poco voy aprendiendo cada vez más sobre back-end.
 Apasionada de la IA, siempre usandola para mejorar y conocer mas sobre este inmenso mundo de la programación web.
-<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 ---
 
 ### 🛠️ Mis Tecnologías
