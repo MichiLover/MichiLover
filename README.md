@@ -1,4 +1,4 @@
-# ¡Hola! Soy Marian 👋
+# ¡Hola! Soy Marian 👋 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 
 ### 👩‍💻 Programadora Web en formación | Apasionada por crear siempre algo nuevo e interesante
 
