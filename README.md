@@ -23,7 +23,7 @@ Apasionada de la IA, siempre usandola para mejorar y conocer mas sobre este inme
 - 💬 Ask me about C#
 - 📫 How to reach me: Contact part
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
+- ⚡ Dato curioso: Soy una gran amante de los gatos!
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
