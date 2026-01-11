@@ -12,6 +12,17 @@ Apasionada de la IA, siempre usandola para mejorar y conocer mas sobre este inme
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
+- 🔭 I’m currently working on: **My side projects**
+
+- 🌱 I’m currently learning: **MERN stack**
+
+- 👯 I’m looking to collaborate on: **Interesting open source projects**
+
+- 💬 Ask me about: **Java, SpringBoot, Express**
+
+- 📫 How to reach me: **Drop me an email at ujjwalbhatt09@gmail.com**
+
+- ⚡ Fun fact: **Debugging was coined after removing bugs from computer hardware.**
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
